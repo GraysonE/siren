@@ -11,6 +11,14 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
@@ -166,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602008866414</updated>
-      <workItem from="1602008867488" duration="5718000" />
+      <workItem from="1602008867488" duration="9628000" />
     </task>
     <servers />
   </component>
@@ -174,10 +182,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="662" y="283" width="596" height="486" key="find.popup" timestamp="1602009294832">
+    <state x="662" y="283" width="596" height="486" key="find.popup" timestamp="1602015421963">
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
-    <state x="662" y="283" width="596" height="486" key="find.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602009294832" />
+    <state x="662" y="283" width="596" height="486" key="find.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602015421963" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1602014311523">
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
