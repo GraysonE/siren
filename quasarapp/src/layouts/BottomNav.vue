@@ -20,8 +20,8 @@ export default {
           icon: 'home'
         },
         {
-          route: '/train',
-          text: 'Train',
+          route: '/practice',
+          text: 'Practice',
           icon: 'record_voice_over'
         },
         {

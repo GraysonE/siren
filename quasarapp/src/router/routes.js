@@ -8,10 +8,10 @@ const routes = [
     ]
   },
   {
-    path: '/train',
+    path: '/practice',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/Train.vue') }
+      { path: '', component: () => import('pages/Practice.vue') }
     ]
   },
 
