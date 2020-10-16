@@ -1,5 +1,8 @@
 <template>
-  <div></div>
+  <div>
+    <h3>asdf</h3>
+    <div class="wrap"></div>
+  </div>
 </template>
 
 <script>

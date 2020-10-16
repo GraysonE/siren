@@ -1,4 +1,4 @@
-const mix = require('laravel-mix');
+const mix = require( 'laravel-mix' );
 
 /*
  |--------------------------------------------------------------------------
@@ -11,9 +11,9 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-    .copy('quasarapp/dist/spa/index.html', 'resources/views/app.blade.php')
-    .copyDirectory('quasarapp/dist/spa', 'public')
-    .postCss('resources/css/app.css', 'public/css', [
-        //
-    ]);
+mix.js( 'resources/js/app.js', 'public/js' );
+mix.copy( 'quasarapp/dist/spa/index.html', 'resources/views/app.blade.php' );
+mix.copyDirectory( 'quasarapp/dist/spa', 'public' ); // change 'spa' to whatever you want (eg. ssr, pwa, spa).
+mix.postCss( 'resources/css/app.css', 'public/css', [
+    //
+] );
