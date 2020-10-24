@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="217ba403-37fe-4c8b-942d-b957ae29ff89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Siren - Laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Siren - Laravel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quasarapp/src/boot/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/quasarapp/src/boot/axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quasarapp/src/pages/auth/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/quasarapp/src/pages/auth/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-    </list>
+    <list default="true" id="217ba403-37fe-4c8b-942d-b957ae29ff89" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,6 +202,7 @@
       <workItem from="1603220350210" duration="1096000" />
       <workItem from="1603237902328" duration="608000" />
       <workItem from="1603517282409" duration="3219000" />
+      <workItem from="1603561725253" duration="2517000" />
     </task>
     <servers />
   </component>
@@ -225,10 +215,10 @@
     </state>
     <state x="579" y="275" width="568" height="486" key="find.popup/0.23.1680.976@0.23.1680.976" timestamp="1603522938535" />
     <state x="662" y="283" width="596" height="486" key="find.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602015421963" />
-    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup" timestamp="1603522941662">
+    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup" timestamp="1603563862598">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup/0.23.1680.976@0.23.1680.976" timestamp="1603522941662" />
+    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup/0.23.1680.976@0.23.1680.976" timestamp="1603563862598" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1602046974875" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602014311523" />
   </component>

@@ -79,19 +79,9 @@ cfg.module.rules.push({
     devServer: {
       https: true,
       host: 'siren.test',
-      port: 8080,
+      port: 8081,
       compress: true,
-      open: true // opens browser window automatically
-      // proxy: {
-      //   // proxy all requests starting with /api to jsonplaceholder
-      //   '/api': {
-      //     target: 'http://some.api.target.com:7070',
-      //     changeOrigin: true,
-      //     pathRewrite: {
-      //       '^/api': ''
-      //     }
-      //   }
-      // }
+      open: false, // opens browser window automatically
     },
 
     // https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-framework

@@ -58,6 +58,9 @@ export default {
   },
   methods: {
     login() {
+      // During this request Laravel will set an XSRF-TOKEN cookie containing the current CSRF token.
+      // This token should then be passed in an X-XSRF-TOKEN header on subsequent requests,
+      // which libraries like Axios and the Angular HttpClient will do automatically for you.
       axios.get('/sanctum/csrf-cookie').then(response => {
         console.log(response)
         // Login...
