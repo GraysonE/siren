@@ -23,7 +23,7 @@
 <!--            </div>-->
 <!--          </q-card-section>-->
           <q-card-actions class="q-px-md">
-            <q-btn unelevated color="secondary" size="lg" class="full-width" label="Login"/>
+            <q-btn unelevated color="secondary" size="lg" class="full-width" label="Login" @click="login"/>
           </q-card-actions>
           <q-card-section class="float-left q-pa-none">
             <router-link
@@ -52,6 +52,11 @@ export default {
     return {
       email: '',
       password: ''
+    }
+  },
+  methods: {
+    login() {
+      
     }
   }
 }
