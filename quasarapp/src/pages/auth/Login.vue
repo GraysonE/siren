@@ -9,19 +9,19 @@
               <q-input square filled clearable v-model="password" type="password" label="password"/>
             </q-form>
           </q-card-section>
-<!--          <q-card-section class="row">-->
-<!--            <div class="text-center q-pa-md q-gutter-md">-->
-<!--              <q-btn round color="indigo-7">-->
-<!--                <q-icon name="fab fa-facebook-f" size="1.2rem"/>-->
-<!--              </q-btn>-->
-<!--              <q-btn round color="red-8">-->
-<!--                <q-icon name="fab fa-google-plus-g" size="1.2rem"/>-->
-<!--              </q-btn>-->
-<!--              <q-btn round color="light-blue-5">-->
-<!--                <q-icon name="fab fa-twitter" size="1.2rem"/>-->
-<!--              </q-btn>-->
-<!--            </div>-->
-<!--          </q-card-section>-->
+          <!--          <q-card-section class="row">-->
+          <!--            <div class="text-center q-pa-md q-gutter-md">-->
+          <!--              <q-btn round color="indigo-7">-->
+          <!--                <q-icon name="fab fa-facebook-f" size="1.2rem"/>-->
+          <!--              </q-btn>-->
+          <!--              <q-btn round color="red-8">-->
+          <!--                <q-icon name="fab fa-google-plus-g" size="1.2rem"/>-->
+          <!--              </q-btn>-->
+          <!--              <q-btn round color="light-blue-5">-->
+          <!--                <q-icon name="fab fa-twitter" size="1.2rem"/>-->
+          <!--              </q-btn>-->
+          <!--            </div>-->
+          <!--          </q-card-section>-->
           <q-card-actions class="q-px-md">
             <q-btn unelevated color="secondary" size="lg" class="full-width" label="Login" @click="login"/>
           </q-card-actions>
@@ -46,6 +46,8 @@
 </template>
 
 <script>
+import axios from 'axios';
+
 export default {
   name: 'Login',
   data() {
@@ -56,7 +58,10 @@ export default {
   },
   methods: {
     login() {
-      
+      axios.get('/sanctum/csrf-cookie').then(response => {
+        console.log(response)
+        // Login...
+      });
     }
   }
 }
