@@ -28,9 +28,6 @@ export default {
       right: false
     }
   },
-  props: {
-    // behavior: "mobile",
-  }
 }
 </script>
 
