@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laradock_siren" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -202,7 +202,7 @@
       <workItem from="1603220350210" duration="1096000" />
       <workItem from="1603237902328" duration="608000" />
       <workItem from="1603517282409" duration="3219000" />
-      <workItem from="1603561725253" duration="12766000" />
+      <workItem from="1603561725253" duration="21152000" />
     </task>
     <servers />
   </component>
@@ -210,19 +210,19 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="624" height="445" key="SwitcherDM" timestamp="1603583792516">
+    <state width="624" height="445" key="SwitcherDM" timestamp="1603600520258">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="624" height="445" key="SwitcherDM/0.23.1680.976@0.23.1680.976" timestamp="1603583792516" />
-    <state x="579" y="275" width="568" height="486" key="find.popup" timestamp="1603582835471">
+    <state width="624" height="445" key="SwitcherDM/0.23.1680.976@0.23.1680.976" timestamp="1603600520258" />
+    <state x="579" y="275" width="568" height="486" key="find.popup" timestamp="1603608461637">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state x="579" y="275" width="568" height="486" key="find.popup/0.23.1680.976@0.23.1680.976" timestamp="1603582835471" />
+    <state x="579" y="275" width="568" height="486" key="find.popup/0.23.1680.976@0.23.1680.976" timestamp="1603608461637" />
     <state x="662" y="283" width="596" height="486" key="find.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602015421963" />
-    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup" timestamp="1603597693818">
+    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup" timestamp="1603607914853">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup/0.23.1680.976@0.23.1680.976" timestamp="1603597693818" />
+    <state x="547" y="238" width="670" height="656" key="search.everywhere.popup/0.23.1680.976@0.23.1680.976" timestamp="1603607914853" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1602046974875" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602014311523" />
   </component>

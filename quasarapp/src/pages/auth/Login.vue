@@ -47,6 +47,7 @@
 
 <script>
 import Auth from '../../app/auth/auth.es6.js';
+import axios from "axios";
 
 export default {
   name: 'Login',

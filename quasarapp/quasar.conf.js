@@ -79,9 +79,13 @@ module.exports = function (/* ctx */) {
     devServer: {
       https: true,
       host: 'siren.test',
-      port: 8081,
+      port: 8080,
       compress: true,
       open: false, // opens browser window automatically
+      // before(app) {
+      //   const cors = require('cors')
+      //   app.use(cors())
+      // }
     },
 
     // https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-framework
