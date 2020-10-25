@@ -5,8 +5,8 @@
         <q-card square class="q-pa-lg ">
           <q-card-section>
             <q-form class="q-gutter-md">
-              <q-input square filled clearable v-model="email" type="email" label="email"/>
-              <q-input square filled clearable v-model="password" type="password" label="password"/>
+              <q-input square filled clearable v-model="credentials.email" type="email" label="email"/>
+              <q-input square filled clearable v-model="credentials.password" type="password" label="password"/>
             </q-form>
           </q-card-section>
           <!--          <q-card-section class="row">-->
@@ -46,25 +46,22 @@
 </template>
 
 <script>
-import axios from 'axios';
+import Auth from '../../app/auth/auth.es6.js';
 
 export default {
   name: 'Login',
   data() {
     return {
-      email: '',
-      password: ''
+      credentials: {
+        email: '',
+        password: ''
+      },
+      Auth: new Auth()
     }
   },
   methods: {
     login() {
-      // During this request Laravel will set an XSRF-TOKEN cookie containing the current CSRF token.
-      // This token should then be passed in an X-XSRF-TOKEN header on subsequent requests,
-      // which libraries like Axios and the Angular HttpClient will do automatically for you.
-      axios.get('/sanctum/csrf-cookie').then(response => {
-        console.log(response)
-        // Login...
-      });
+      this.Auth.login(this.credentials, 'profile')
     }
   }
 }

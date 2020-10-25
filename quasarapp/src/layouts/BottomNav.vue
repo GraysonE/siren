@@ -1,6 +1,5 @@
 <template>
   <q-tabs slot="footer"
-          v-model="tab"
           class="bg-primary text-white shadow-2"
   >
     <q-route-tab v-for="(nav, key) in navs" :icon="nav.icon" :to="nav.route" :key="key"></q-route-tab>
