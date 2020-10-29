@@ -28,6 +28,19 @@ module.exports = function (/* ctx */) {
     css: [
       'app.scss'
     ],
+    afterBuild({quasarConf}) {
+      if (ctx.mode.spa || ctx.mode.pwa) {
+        const composeDistPath = src => join(quasarConf.build.distDir, src);
+
+        const composeServerPath = src =>
+          join(__dirname, '../backend/public', src);
+
+        for (const fileName of readdirSync(quasarConf.build.distDir)) {
+          removeSync(composeServerPath(fileName));
+          copySync(composeDistPath(fileName), composeServerPath(fileName));
+        }
+      }
+    },
 
     // https://github.com/quasarframework/quasar/tree/dev/extras
     extras: [
@@ -45,7 +58,7 @@ module.exports = function (/* ctx */) {
 
     // Full list of options: https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-build
     build: {
-      distDir: '../public',
+      distDir: '../backend/quasar-public',
       vueRouterMode: 'hash', // available values: 'hash', 'history'
 
       // transpile: false,
