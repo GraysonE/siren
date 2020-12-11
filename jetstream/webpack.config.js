@@ -1,5 +1,7 @@
 const path = require('path');
 
+require('./quasar.conf')
+
 module.exports = {
     resolve: {
         alias: {
@@ -7,3 +9,4 @@ module.exports = {
         },
     },
 };
+

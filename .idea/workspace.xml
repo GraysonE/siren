@@ -20,329 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="217ba403-37fe-4c8b-942d-b957ae29ff89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Siren - Laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Siren.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetstream/public/Octave.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetstream/resources/js/Pages/Dashboard.quasar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetstream/resources/js/Quasar/layouts/BottomNav.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/webpack.mix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/quasar.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/quasar.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.devcontainer/devcontainer.example.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/SUPPORT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/home-page-images/custom-sponsors/apiato.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/home-page-images/custom-sponsors/bestonlinecasino.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/home-page-images/documentation-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/home-page-images/join-us.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/home-page-images/laradock-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/stale.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.github/workflows/main-ci.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.gitpod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/content/contributing/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/content/documentation/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/content/getting-started/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/content/help/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/content/introduction/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/content/related-projects/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/static/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/static/ads.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/static/custom-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/archetypes/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/_default/__list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/_default/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/drawer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/footer_js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/nav_link.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/shortcodes/note.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/layouts/shortcodes/warning.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/android-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/android-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/android-icon-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/android-icon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/android-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/android-icon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/ms-icon-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/ms-icon-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/favicons/ms-icon-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/laradock-full-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Connection.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/ConnectionData.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/ConnectionSSH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/ConnectionSSHAuth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Session.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Terminal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/TerminalKeyboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/TerminalShell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Window.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/WindowAppearance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/DebugRemoteOn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteDebuggingSuccess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteHost.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteTestDebuggingSuccess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteWebDebuggingSuccess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/BuildDeploymentConnection.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/BuildDeploymentConnectionMappings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/BuildDeploymentDebugger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/EditRunConfigurationRemoteExampleTestDebug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/EditRunConfigurationRemoteWebDebug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPDebug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPInterpreters.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPPHPUnit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPServers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/WindowsFirewallAllowedApps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/WindowsHyperVManager.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/hosts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/linux/configuration/debugConfiguration.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/linux/configuration/serverConfiguration.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/SimpleHostsEditor/AddHost_laravel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/javascripts/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/javascripts/modernizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/highlight/highlight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/palettes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/temporary.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/DOCUMENTATION/themes/hugo-material-docs/theme.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/README-zh.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/adminer/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/aerospike/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/apache2/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/apache2/sites/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/apache2/sites/default.apache.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/apache2/sites/sample.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/apache2/vhost.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/aws-eb-cli/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/aws-eb-cli/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/beanstalkd-console/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/beanstalkd/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/caddy/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/caddy/caddy/Caddyfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/caddy/caddy/authlist.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/cassandra/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/certbot/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/certbot/letsencrypt/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/certbot/letsencrypt/.well-known/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/certbot/run-certbot.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/couchdb/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/dejavu/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/docker-compose.sync.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/docker-registry/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/docker-sync.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/docker-web-ui/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/elasticsearch/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/env-example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/gearman/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/gitlab/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/grafana/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/graylog/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/graylog/config/graylog.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/graylog/config/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/haproxy/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/hhvm/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/hhvm/server.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ide-codiad/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ide-codiad/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ide-icecoder/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ide-theia/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ide-webide/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ipython/Dockerfile.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ipython/Dockerfile.engine" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ipython/ipcontroller-client.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/ipython/ipcontroller-engine.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/Jenkinsfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/init.groovy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/install-plugins.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/jenkins-support" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/jenkins.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/plugins.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/publish.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/functions.bats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/install-plugins.bats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/install-plugins/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/install-plugins/update/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/plugins/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/plugins/plugins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/runtime.bats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/test_helpers.bash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/tests/upgrade-plugins/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jenkins/update-official-library.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jupyterhub/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jupyterhub/Dockerfile.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jupyterhub/jupyterhub_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jupyterhub/start-notebook.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jupyterhub/start-singleuser.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jupyterhub/start.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/jupyterhub/userlist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/kibana/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/laravel-echo-server/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/laravel-echo-server/laravel-echo-server.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/laravel-echo-server/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/laravel-horizon/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/laravel-horizon/supervisord.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/laravel-horizon/supervisord.d/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/laravel-horizon/supervisord.d/laravel-horizon.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/logstash/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/logstash/config/logstash.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/logstash/pipeline/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mailcatcher/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/maildev/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mailhog/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/manticore/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/manticore/config/sphinx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mariadb/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mariadb/docker-entrypoint-initdb.d/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mariadb/docker-entrypoint-initdb.d/createdb.sql.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mariadb/my.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/memcached/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/minio/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mongo-webui/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mongo/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mosquitto/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mosquitto/mosquitto.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mssql/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mysql/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mysql/docker-entrypoint-initdb.d/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mysql/docker-entrypoint-initdb.d/createdb.sql.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/mysql/my.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/neo4j/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/logrotate/nginx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/sites/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/sites/app.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/sites/confluence.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/sites/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/sites/laravel.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/sites/laravel_varnish.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/sites/symfony.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/ssl/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/nginx/startup.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/percona/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/percona/docker-entrypoint-initdb.d/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/percona/docker-entrypoint-initdb.d/createdb.sql.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/percona/my.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/aerospike.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/laravel.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/mysql.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/opcache.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/phalcon.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/php5.6.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/php7.0.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/php7.1.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/php7.2.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/php7.3.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/php7.4.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/xdebug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/xdebug.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/xhprof.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-fpm/xlaravel.pool.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-worker/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-worker/supervisord.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-worker/supervisord.d/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-worker/supervisord.d/laravel-scheduler.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/php-worker/supervisord.d/laravel-worker.conf.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/phpmyadmin/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/portainer/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres-postgis/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres/docker-entrypoint-initdb.d/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres/docker-entrypoint-initdb.d/createdb.sh.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres/docker-entrypoint-initdb.d/init_confluence_db.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres/docker-entrypoint-initdb.d/init_gitlab_db.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres/docker-entrypoint-initdb.d/init_jupyterhub_db.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/postgres/docker-entrypoint-initdb.d/init_sonarqube_db.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/rabbitmq/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/redis-cluster/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/redis-webui/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/redis/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/redis/redis.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/rethinkdb/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/selenium/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/solr/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/sonarqube/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/sqs/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/sync.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/thumbor/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/traefik/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/traefik/data/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/travis-build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/varnish/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/varnish/default.vcl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/varnish/default_wordpress.vcl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/varnish/start.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/aerospike.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/aliases.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/auth.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/crontab/laradock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/git-prompt.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/insecure_id_rsa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/insecure_id_rsa.ppk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/insecure_id_rsa.pub" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/mc/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/sources.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/workspace/xdebug.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laradock_siren/zookeeper/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/resources/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/resources/js/Pages/Dashboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/resources/views/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/app/public/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/app/public/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/framework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/framework/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/framework/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/framework/cache/data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/framework/sessions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/framework/testing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/framework/testing/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/framework/views/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/framework/views/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/storage/logs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/storage/logs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetstream/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/jetstream/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock" beforeDir="false" afterPath="$PROJECT_DIR$/laradock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -371,7 +76,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="siren_workspace:latest" />
   <component name="ProjectId" id="1iW28L4ZV5lbBe2tU02FK8wayHf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -381,7 +88,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Blade" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/laradock/nginx/sites" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jetstream/storage/app/public/midi" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -395,13 +102,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jetstream/storage/app/public/midi" />
+      <recent name="$PROJECT_DIR$/jetstream" />
+      <recent name="$PROJECT_DIR$/jetstream/resources/js/Pages" />
+      <recent name="$PROJECT_DIR$/jetstream/resources/js/Quasar" />
       <recent name="$PROJECT_DIR$/laradock/nginx/sites" />
-      <recent name="$PROJECT_DIR$/laradock" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/resources/js" />
-      <recent name="$PROJECT_DIR$/public_html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jetstream/storage/app/public" />
+      <recent name="$PROJECT_DIR$/jetstream/storage/app" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
@@ -434,6 +143,9 @@
       <workItem from="1603762338879" duration="1808000" />
       <workItem from="1604004269201" duration="482000" />
       <workItem from="1604004843221" duration="3111000" />
+      <workItem from="1604020994031" duration="2072000" />
+      <workItem from="1604363351653" duration="919000" />
+      <workItem from="1604505741931" duration="8000" />
     </task>
     <servers />
   </component>
@@ -475,21 +187,26 @@
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state x="284" y="127" key="SettingsEditor/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1604005356908" />
-    <state width="624" height="445" key="SwitcherDM" timestamp="1603600520258">
-      <screen x="0" y="23" width="1680" height="976" />
+    <state width="714" height="459" key="SwitcherDM" timestamp="1604012685732">
+      <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state width="624" height="445" key="SwitcherDM/0.23.1680.976@0.23.1680.976" timestamp="1603600520258" />
+    <state width="714" height="459" key="SwitcherDM/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1604012685732" />
+    <state x="760" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604363412666">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="760" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1604363412666" />
     <state x="662" y="283" width="650" height="544" key="find.popup" timestamp="1603763432791">
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state x="579" y="275" width="568" height="486" key="find.popup/0.23.1680.976@0.23.1680.976" timestamp="1603608461637" />
     <state x="662" y="283" width="650" height="544" key="find.popup/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1603763432791" />
     <state x="662" y="283" width="596" height="486" key="find.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602015421963" />
-    <state x="625" y="245" width="672" height="676" key="search.everywhere.popup" timestamp="1604004709534">
+    <state x="625" y="245" width="672" height="676" key="search.everywhere.popup" timestamp="1604364197544">
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state x="547" y="238" width="670" height="656" key="search.everywhere.popup/0.23.1680.976@0.23.1680.976" timestamp="1603607914853" />
-    <state x="625" y="245" width="672" height="676" key="search.everywhere.popup/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1604004709534" />
+    <state x="625" y="245" width="672" height="676" key="search.everywhere.popup/0.23.1920.1006/-1280.657.1280.777@0.23.1920.1006" timestamp="1604364197544" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602014311523" />
   </component>
 </project>

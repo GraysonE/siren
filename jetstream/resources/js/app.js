@@ -5,13 +5,16 @@ import Vue from 'vue';
 import {InertiaApp} from '@inertiajs/inertia-vue';
 import {InertiaForm} from 'laravel-jetstream';
 import PortalVue from 'portal-vue';
-import Quasar from 'quasar';
+
+// const Quasar = () => import("quasar");
 
 Vue.mixin({methods: {route}});
 Vue.use(InertiaApp);
 Vue.use(InertiaForm);
 Vue.use(PortalVue);
-Vue.use(Quasar)
+// Vue.use(Quasar)
+
+Vue.config.ignoredElements = [/^ion-/]
 
 const app = document.getElementById('app');
 

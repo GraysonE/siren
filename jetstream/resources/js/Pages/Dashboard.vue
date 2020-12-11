@@ -10,6 +10,7 @@
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
                     <welcome />
+<!--                    <Play></Play>-->
                 </div>
             </div>
         </div>
@@ -17,12 +18,14 @@
 </template>
 
 <script>
+    // import Play from '@/Siren/Play'
     import AppLayout from '@/Layouts/AppLayout'
     import Welcome from '@/Jetstream/Welcome'
 
     export default {
         components: {
             AppLayout,
+            // Play,
             Welcome,
         },
     }
